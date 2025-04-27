@@ -32,7 +32,7 @@ It enables dynamic sales analysis through filters, key metrics, and automated re
 
 ## 📷 Dashboard Preview
 
-(Screenshot 2025-04-27 105306.png)
+![Dashboard Preview](screenshots/dashboard-preview.png)
 ![Apple Analysis](C:/Users/hp/Downloads/gettyimages-1240702737-594x594.jpg)
 
 ## 🌟 Future Improvements (Optional)
