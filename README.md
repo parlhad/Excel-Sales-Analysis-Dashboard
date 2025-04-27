@@ -42,8 +42,10 @@ It enables dynamic sales analysis through filters, key metrics, and automated re
 
 ---
 
-## 📜 License
+## Owner
 
-This project is open source under the [MIT License](LICENSE).
+ If any typt od query you can ask on parlhadjadhav7@gmail.com or Linkdeln Pralhad jadhav
+
+
 
 ---
