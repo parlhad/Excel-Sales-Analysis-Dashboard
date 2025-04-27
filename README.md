@@ -32,7 +32,7 @@ It enables dynamic sales analysis through filters, key metrics, and automated re
 
 ## 📷 Dashboard Preview
 
-(Insert screenshots here)
+(Screenshot 2025-04-27 105306.png)
 
 ## 🌟 Future Improvements (Optional)
 
